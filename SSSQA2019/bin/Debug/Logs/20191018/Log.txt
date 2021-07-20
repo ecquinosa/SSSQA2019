@@ -1,0 +1,41 @@
+10-18-2019 02:22:55 PM 011304582595|0120190715H2ID121005|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  260 bytes|Temp\Lbackup.ansi-fmr  296 bytes|Temp\Rprimary.ansi-fmr  194 bytes|Temp\Rbackup.ansi-fmr  248 bytes
+10-18-2019 02:23:31 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 02:32:07 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 02:32:33 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 02:33:06 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 02:33:45 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 02:33:51 PM 011116537518|0120190715J1ID096018|20190906||SUCCESS|Temp\Lprimary.ansi-fmr  374 bytes|Temp\Lbackup.ansi-fmr  428 bytes|Temp\Rprimary.ansi-fmr  284 bytes|Temp\Rbackup.ansi-fmr  380 bytes
+10-18-2019 03:20:31 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 03:20:49 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 03:21:00 PM 011304582595|0120190715H2ID121005|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  260 bytes|Temp\Lbackup.ansi-fmr  296 bytes|Temp\Rprimary.ansi-fmr  194 bytes|Temp\Rbackup.ansi-fmr  248 bytes
+10-18-2019 03:21:37 PM 011304582595|0120190715H2ID121005|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  260 bytes|Temp\Lbackup.ansi-fmr  296 bytes|Temp\Rprimary.ansi-fmr  194 bytes|Temp\Rbackup.ansi-fmr  248 bytes
+10-18-2019 03:23:22 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 03:23:47 PM ||||||||
+10-18-2019 03:23:48 PM ||||||||
+10-18-2019 03:23:49 PM ||||||||
+10-18-2019 03:23:50 PM ||||||||
+10-18-2019 03:24:11 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 03:24:48 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 03:25:46 PM 011304582595|0120190715H2ID121005|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  260 bytes|Temp\Lbackup.ansi-fmr  296 bytes|Temp\Rprimary.ansi-fmr  194 bytes|Temp\Rbackup.ansi-fmr  248 bytes
+10-18-2019 03:25:53 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 03:31:24 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 03:31:31 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 04:55:45 PM 011116537518|0120190715J1ID096018|20190906||SUCCESS|Temp\Lprimary.ansi-fmr  374 bytes|Temp\Lbackup.ansi-fmr  428 bytes|Temp\Rprimary.ansi-fmr  284 bytes|Temp\Rbackup.ansi-fmr  380 bytes
+10-18-2019 04:55:51 PM 011304582595|0120190715H2ID121005|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  260 bytes|Temp\Lbackup.ansi-fmr  296 bytes|Temp\Rprimary.ansi-fmr  194 bytes|Temp\Rbackup.ansi-fmr  248 bytes
+10-18-2019 04:55:57 PM 011304582414|0120190715H2ID121002|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 04:56:18 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 04:58:35 PM 011156598054|0120190715HKID219045|20190905||SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:00:43 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:10:19 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:12:47 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:13:37 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:13:58 PM 011304582414|0120190715H2ID121002|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 05:14:59 PM 011304582414|0120190715H2ID121002|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 05:15:08 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:15:51 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:16:03 PM 011116537518|0120190715J1ID096018|20190906|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  374 bytes|Temp\Lbackup.ansi-fmr  428 bytes|Temp\Rprimary.ansi-fmr  284 bytes|Temp\Rbackup.ansi-fmr  380 bytes
+10-18-2019 05:22:41 PM 011156598054|0120190715HKID219045|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  338 bytes|Temp\Lbackup.ansi-fmr  374 bytes|Temp\Rprimary.ansi-fmr  308 bytes|Temp\Rbackup.ansi-fmr  476 bytes
+10-18-2019 05:22:51 PM 011304582414|0120190715H2ID121002|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 05:23:19 PM 011304582414|0120190715H2ID121002|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes
+10-18-2019 05:34:37 PM 011304583976|0120190715HKID219036|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  386 bytes|Temp\Lbackup.ansi-fmr  452 bytes|Temp\Rprimary.ansi-fmr  338 bytes|Temp\Rbackup.ansi-fmr  386 bytes
+10-18-2019 05:34:44 PM 011304582414|0120190715H2ID121002|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  212 bytes|Temp\Lbackup.ansi-fmr  332 bytes|Temp\Rprimary.ansi-fmr  206 bytes|Temp\Rbackup.ansi-fmr  374 bytes

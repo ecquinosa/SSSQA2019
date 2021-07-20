@@ -1,0 +1,1 @@
+12-16-2020 06:04:10 PM 003328864420|0120190204CQID047014|20191112|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  194 bytes|Temp\Lbackup.ansi-fmr  272 bytes|Temp\Rprimary.ansi-fmr  224 bytes|Temp\Rbackup.ansi-fmr  224 bytes

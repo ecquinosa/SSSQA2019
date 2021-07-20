@@ -1,0 +1,8 @@
+04-02-2020 02:34:20 PM 021159988153||20161127|CARD_ACTIVE|FAILED||||
+04-02-2020 02:34:31 PM 021159988153||20161127|CARD_ACTIVE|FAILED||||
+04-02-2020 02:35:01 PM 000000000038||20140806|CARD_ACTIVE|FAILED||||
+04-02-2020 02:35:11 PM 000000000038||20140806|CARD_ACTIVE|FAILED||||
+04-02-2020 02:49:51 PM 003343794106|0120161103MHID177013|20170918|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  302 bytes|Temp\Lbackup.ansi-fmr  416 bytes|Temp\Rprimary.ansi-fmr  272 bytes|Temp\Rbackup.ansi-fmr  356 bytes
+04-02-2020 02:50:11 PM 003341642865|0120170417CTID042009|20170714|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  230 bytes|Temp\Lbackup.ansi-fmr  368 bytes|Temp\Rprimary.ansi-fmr  296 bytes|Temp\Rbackup.ansi-fmr  344 bytes
+04-02-2020 02:50:30 PM 011139550352|0120180918B5ID105005|20190103|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  290 bytes|Temp\Lbackup.ansi-fmr  368 bytes|Temp\Rprimary.ansi-fmr  248 bytes|Temp\Rbackup.ansi-fmr  326 bytes
+04-02-2020 02:50:42 PM 011169962635|0120170417COID042028|20170714|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  242 bytes|Temp\Lbackup.ansi-fmr  404 bytes|Temp\Rprimary.ansi-fmr  236 bytes|Temp\Rbackup.ansi-fmr  278 bytes

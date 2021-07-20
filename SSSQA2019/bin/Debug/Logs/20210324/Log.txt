@@ -1,0 +1,1 @@
+03-24-2021 11:41:19 AM 000106365160|0120210210AB00000015|20210210|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  248 bytes|Temp\Rbackup.ansi-fmr  284 bytes

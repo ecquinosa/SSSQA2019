@@ -1,0 +1,7 @@
+02-03-2021 11:19:11 AM 000349053459|0220210203AB00000001|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  248 bytes|Temp\Rbackup.ansi-fmr  320 bytes
+02-03-2021 11:21:48 AM 000101623506|0220210203AB00000002|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  260 bytes|Temp\Rbackup.ansi-fmr  224 bytes
+02-03-2021 11:23:28 AM 000368204250|0220210203AB00000003|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  230 bytes|Temp\Rbackup.ansi-fmr  302 bytes
+02-03-2021 11:24:47 AM 000369740438|0220210203AB00000004|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  302 bytes|Temp\Rbackup.ansi-fmr  278 bytes
+02-03-2021 11:25:33 AM 000375407309|0220210203AB00000005|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  230 bytes|Temp\Rbackup.ansi-fmr  302 bytes
+02-03-2021 11:26:35 AM 011120511111|0220210203AB00000006|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  266 bytes|Temp\Rbackup.ansi-fmr  206 bytes
+02-03-2021 03:15:46 PM 000369740438|0220210203AB00000004|20210203|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  278 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  302 bytes|Temp\Rbackup.ansi-fmr  278 bytes

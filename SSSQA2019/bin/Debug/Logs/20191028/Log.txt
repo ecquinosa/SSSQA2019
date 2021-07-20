@@ -1,0 +1,2 @@
+10-28-2019 03:31:06 PM 011304582595|0120190715H2ID121005|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  260 bytes|Temp\Lbackup.ansi-fmr  296 bytes|Temp\Rprimary.ansi-fmr  194 bytes|Temp\Rbackup.ansi-fmr  248 bytes
+10-28-2019 03:31:14 PM 011116537518|0120190715J1ID096018|20190906|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  374 bytes|Temp\Lbackup.ansi-fmr  428 bytes|Temp\Rprimary.ansi-fmr  284 bytes|Temp\Rbackup.ansi-fmr  380 bytes

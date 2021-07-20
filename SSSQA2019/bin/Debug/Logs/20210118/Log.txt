@@ -1,0 +1,11 @@
+01-18-2021 02:51:52 PM 000101623506|0120210107AB00000002|20210107|CARD_INACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  200 bytes|Temp\Lbackup.ansi-fmr  410 bytes|Temp\Rprimary.ansi-fmr  260 bytes|Temp\Rbackup.ansi-fmr  224 bytes
+01-18-2021 02:51:59 PM 011194811777|0120180920GDID153011|20181221|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  308 bytes|Temp\Lbackup.ansi-fmr  344 bytes|Temp\Rprimary.ansi-fmr  332 bytes|Temp\Rbackup.ansi-fmr  326 bytes
+01-18-2021 02:52:11 PM 011194811777|0120180920GDID153011|20181221|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  308 bytes|Temp\Lbackup.ansi-fmr  344 bytes|Temp\Rprimary.ansi-fmr  332 bytes|Temp\Rbackup.ansi-fmr  326 bytes
+01-18-2021 02:52:17 PM 000385747703|0120190701D6ID147004|20191104|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  314 bytes|Temp\Lbackup.ansi-fmr  392 bytes|Temp\Rprimary.ansi-fmr  284 bytes|Temp\Rbackup.ansi-fmr  446 bytes
+01-18-2021 03:02:13 PM 011169946716|0120170417C5ID016040|20170713|CARD_INACTIVE|SUCCESS||||
+01-18-2021 03:04:06 PM 000000000006|0120160322CQID047006|20160412||FAILED||||
+01-18-2021 03:04:15 PM 011139550352|0120180920GCID156006|20190103|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  290 bytes|Temp\Lbackup.ansi-fmr  368 bytes|Temp\Rprimary.ansi-fmr  248 bytes|Temp\Rbackup.ansi-fmr  326 bytes
+01-18-2021 03:04:38 PM 011304583976|0120190715HKID219036|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  386 bytes|Temp\Lbackup.ansi-fmr  452 bytes|Temp\Rprimary.ansi-fmr  338 bytes|Temp\Rbackup.ansi-fmr  386 bytes
+01-18-2021 03:04:44 PM 011304583976|0120190715HKID219036|20190905|ERROR|SUCCESS|Temp\Lprimary.ansi-fmr  386 bytes|Temp\Lbackup.ansi-fmr  452 bytes|Temp\Rprimary.ansi-fmr  338 bytes|Temp\Rbackup.ansi-fmr  386 bytes
+01-18-2021 03:04:59 PM 011133805498|0120140905F1ID104002|20191204|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  320 bytes|Temp\Lbackup.ansi-fmr  422 bytes|Temp\Rprimary.ansi-fmr  332 bytes|Temp\Rbackup.ansi-fmr  440 bytes
+01-18-2021 03:06:09 PM 006010005976|02201204120395400765|20181128|CARD_ACTIVE|SUCCESS|Temp\Lprimary.ansi-fmr  801 bytes|Temp\Lbackup.ansi-fmr  801 bytes|Temp\Rprimary.ansi-fmr  801 bytes|Temp\Rbackup.ansi-fmr  801 bytes
